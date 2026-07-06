@@ -1,19 +1,14 @@
 <div align="center">
 
-# Hi, I'm Vien Santos 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1200&color=4F8EF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vien+Santos+%F0%9F%91%8B;Front-End+Developer;BSIT+Student;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
 ### Front-End Developer | BSIT Student
 
-I'm a BSIT student who enjoys building responsive websites and learning new technologies. I like creating projects that solve real-world problems and improve user experience.
+I'm passionate about building responsive websites and creating user-friendly web applications.
 
-🌐 **Portfolio**  
-https://vien-santos-portfolio.vercel.app
-
-💼 **LinkedIn**  
-https://www.linkedin.com/in/vien-santos-7239b1327
-
-📧 **Email**  
-viensantos98@gmail.com
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit-blue?style=for-the-badge)](https://vien-santos-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vien%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vien-santos-7239b1327)
+[![Email](https://img.shields.io/badge/Email-viensantos98%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viensantos98@gmail.com)
 
 </div>
 
@@ -23,8 +18,8 @@ viensantos98@gmail.com
 
 - 🎓 BSIT Student
 - 💻 Interested in Front-End Development
-- 🌱 Continuously improving my web development skills
-- 🚀 Open to Internship and Junior Developer opportunities
+- 🚀 Currently building personal and client web projects
+- 📚 Continuously learning modern web technologies
 - 📍 Cavite, Philippines
 
 ---
@@ -37,7 +32,7 @@ A responsive business website for aquascaping services, aquarium products, custo
 
 🔗 https://chaseaquatics.com
 
-### Features
+**Highlights**
 
 - Responsive Design
 - Product Catalog
@@ -49,11 +44,11 @@ A responsive business website for aquascaping services, aquarium products, custo
 
 ## 📂 Collections Script Hub
 
-A web application that helps organize collection scripts for faster and more efficient customer support.
+A web application that organizes collection scripts for faster and more efficient customer support.
 
 🔗 https://vien-work-script-new.vercel.app
 
-### Features
+**Highlights**
 
 - Script Search
 - Favorites
@@ -68,27 +63,27 @@ A web application that helps organize collection scripts for faster and more eff
 
 **Web-Based Ordering System with 3D Cabinet Customization**
 
-Capstone project that allows customers to customize cabinets in 3D before placing an order.
+Capstone project focused on helping customers customize cabinets in 3D before placing an order.
 
-### Technologies
+**Technologies**
 
 - PHP
 - JavaScript
 - MySQL
 - Three.js
 
-### Features
+**Features**
 
 - 3D Cabinet Customization
-- Order Tracking
 - Customer Portal
+- Order Tracking
 - Admin Dashboard
 
 ---
 
 ## 🌐 Portfolio Website
 
-My personal portfolio showcasing my projects, certifications, and experience.
+Personal portfolio showcasing my work, projects, and certifications.
 
 🔗 https://vien-santos-portfolio.vercel.app
 
@@ -107,8 +102,8 @@ Responsible for assisting customers with loan accounts, payment arrangements, an
 - Assisted customers with loan-related concerns
 - Processed payment arrangements
 - Followed up overdue accounts
-- Updated customer records
-- Worked with internal teams to resolve account concerns
+- Maintained customer records
+- Collaborated with internal teams to resolve account concerns
 
 ### Tools
 
@@ -121,19 +116,13 @@ Responsible for assisting customers with loan accounts, payment arrangements, an
 
 # 🛠 Tech Stack
 
-### Frontend
+### Languages
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Database
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -141,7 +130,7 @@ Responsible for assisting customers with loan accounts, payment arrangements, an
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Monday.com](https://img.shields.io/badge/Monday.com-635BFF?style=for-the-badge&logo=mondaydotcom&logoColor=white)
 
@@ -184,27 +173,27 @@ Responsible for assisting customers with loan accounts, payment arrangements, an
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ViennnSantos&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViennnSantos&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViennnSantos&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViennnSantos&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
 # 📫 Contact
 
-🌐 **Portfolio**
-
+🌐 **Portfolio**  
 https://vien-santos-portfolio.vercel.app
 
-💼 **LinkedIn**
-
+💼 **LinkedIn**  
 https://www.linkedin.com/in/vien-santos-7239b1327
 
-📧 **Email**
-
+📧 **Email**  
 viensantos98@gmail.com
 
 ---
 
+<div align="center">
+
 ⭐ Thanks for visiting my GitHub profile!
+
+</div>
