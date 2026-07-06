@@ -4,9 +4,16 @@
 
 ### Front-End Developer | BSIT Student
 
-I'm a BSIT student who enjoys building websites and learning new technologies. I like creating responsive web applications and projects that solve real-world problems.
+I'm a BSIT student who enjoys building responsive websites and learning new technologies. I like creating projects that solve real-world problems and improve user experience.
 
-[🌐 Portfolio](https://vien-santos-portfolio.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/vien-santos-7239b1327)
+🌐 **Portfolio**  
+https://vien-santos-portfolio.vercel.app
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/vien-santos-7239b1327
+
+📧 **Email**  
+viensantos98@gmail.com
 
 </div>
 
@@ -16,8 +23,8 @@ I'm a BSIT student who enjoys building websites and learning new technologies. I
 
 - 🎓 BSIT Student
 - 💻 Interested in Front-End Development
-- 🌱 Currently improving my JavaScript, PHP, and Node.js skills
-- 🚀 Looking for internship and junior developer opportunities
+- 🌱 Continuously improving my web development skills
+- 🚀 Open to Internship and Junior Developer opportunities
 - 📍 Cavite, Philippines
 
 ---
@@ -28,23 +35,23 @@ I'm a BSIT student who enjoys building websites and learning new technologies. I
 
 A responsive business website for aquascaping services, aquarium products, custom cabinets, and customer inquiries.
 
-🌐 https://chaseaquatics.com
+🔗 https://chaseaquatics.com
 
 ### Features
 
 - Responsive Design
 - Product Catalog
 - Inquiry System
-- Service Showcase
 - Contact Form
+- Service Showcase
 
 ---
 
 ## 📂 Collections Script Hub
 
-A web application that helps organize collection scripts for faster and easier customer support.
+A web application that helps organize collection scripts for faster and more efficient customer support.
 
-🌐 https://vien-work-script-new.vercel.app
+🔗 https://vien-work-script-new.vercel.app
 
 ### Features
 
@@ -53,12 +60,15 @@ A web application that helps organize collection scripts for faster and easier c
 - Categories
 - Folder Organization
 - One-click Copy
+- Dark Mode
 
 ---
 
 ## 🪵 RADS Tooling
 
-Web-Based Ordering System with 3D Cabinet Customization.
+**Web-Based Ordering System with 3D Cabinet Customization**
+
+Capstone project that allows customers to customize cabinets in 3D before placing an order.
 
 ### Technologies
 
@@ -69,53 +79,65 @@ Web-Based Ordering System with 3D Cabinet Customization.
 
 ### Features
 
-- 3D Product Customization
+- 3D Cabinet Customization
 - Order Tracking
-- Admin Dashboard
 - Customer Portal
+- Admin Dashboard
 
 ---
 
 ## 🌐 Portfolio Website
 
-Personal website showcasing my projects, skills, and certifications.
+My personal portfolio showcasing my projects, certifications, and experience.
 
-🌐 https://vien-santos-portfolio.vercel.app
+🔗 https://vien-santos-portfolio.vercel.app
 
 ---
 
 # 💼 Experience
 
-## Finance Station
+## Collection Specialist
 
-**Collection Specialist**
+**Finance Station** *(Current)*
+
+Responsible for assisting customers with loan accounts, payment arrangements, and account follow-ups while maintaining accurate records and providing professional customer service.
+
+### Responsibilities
 
 - Assisted customers with loan-related concerns
-- Discussed payment arrangements and settlement options
-- Managed customer records
-- Used Monday.com, Outlook, and Microsoft Teams for daily operations
+- Processed payment arrangements
+- Followed up overdue accounts
+- Updated customer records
+- Worked with internal teams to resolve account concerns
+
+### Tools
+
+- Monday.com
+- Sloan
+- Microsoft Outlook
+- Microsoft Teams
 
 ---
 
 # 🛠 Tech Stack
 
-## Frontend
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Backend
+### Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## Database
+### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Tools
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -129,7 +151,7 @@ Personal website showcasing my projects, skills, and certifications.
 
 ### 🖥 Systems Administration
 
-**STI College - Linux Professional Institute**
+**STI College – Linux Professional Institute**
 
 📅 June 24, 2023
 
@@ -161,25 +183,27 @@ Personal website showcasing my projects, skills, and certifications.
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ViennnSantos&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ViennnSantos&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViennnSantos&layout=compact&theme=github_dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViennnSantos&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
 # 📫 Contact
 
-🌐 Portfolio
+🌐 **Portfolio**
 
 https://vien-santos-portfolio.vercel.app
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/vien-santos-7239b1327
 
-📧 Email
+📧 **Email**
 
-*(Add your preferred email here)*
+viensantos98@gmail.com
 
 ---
 
